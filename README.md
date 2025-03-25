@@ -21,23 +21,9 @@ I'm completing the full course in one week as part of my journey to land a summe
 ---
 
 ## 🗂️ Folder Structure
-week1/ meal.py coke.py nutrition.py
 
-week2/ bank.py camel.py twttr.py
 
-week3/ faces.py einstein.py tip.py
-
-week4/ interpreter.py fuel.py numb3rs.py
-
-week5/ test_bank.py test_twttr.py
-
-week6/ lines.py pizza.py scourgify.py
-
-week7/ professor.py response.py shirt.py
-
-week8/ numb3rs.py watch.py working.py
-
-week9/ outdated.py professor.py shirtificate.py
+TO COME
 
 
 ---
